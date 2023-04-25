@@ -84,7 +84,7 @@ label[for="new-task"] {
   text-transform: uppercase;
 }
 
-.container-main__task {
+input[type="text"] {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
@@ -97,7 +97,7 @@ label[for="new-task"] {
   color: #888;
 }
 
-.container-main__task:focus {
+input[type="text"]:focus {
   color: #333;
 }
 
